@@ -10,3 +10,5 @@ Through this project, I enhanced my front-end development skills, learned the im
 🌟 Why It Stands Out
 The project showcases my eye for detail, user-focused design, and ability to turn concepts into visually appealing, responsive web pages — qualities that align with real-world business needs.
 
+Original website : https://portal.ccbp.in/nxt-talks#claim-your-free-access
+Cloned website : https://harigovindpk.ccbp.tech/
