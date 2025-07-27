@@ -3,18 +3,18 @@
 
 🌐 Web Clone Project
 
-🚀 *About the Project*
+🚀 *About the Project*:
 This is a responsive web clone created during my internship at NxtWave. Built entirely with HTML & CSS, it replicates modern website layouts with precision and clean design.
 
-🎯 *What I Learned*
+🎯 *What I Learned*:
 Through this project, I enhanced my front-end development skills, learned the importance of pixel-perfect design, and mastered building layouts that look great on both mobile and desktop devices.
 
-🎯 *Key Highlights*
-  Fully responsive layout for mobile, tablet, and desktop.
+🎯 *Key Highlights*:
+  ->Fully responsive layout for mobile, tablet, and desktop.
 
-  Pixel-perfect design that closely matches the original website.
+  ->Pixel-perfect design that closely matches the original website.
 
-  Built with clean and organized code for easy readability.
+  ->Built with clean and organized code for easy readability.
 
 🌟 *Why It Stands Out*
 The project showcases my eye for detail, user-focused design, and ability to turn concepts into visually appealing, responsive web pages — qualities that align with real-world business needs.
