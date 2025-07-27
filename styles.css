@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: 'Roboto';
+}
+
+#top-cont {
+    background-image: linear-gradient(to right, #152238 40%, black 100%);
+}
+
+#top-cont-1 {
+    height: 100%;
+    padding-top: 70px;
+    width: 80%;
+}
+
+#head-1 {
+    background-image: linear-gradient(to bottom, #152238 40%, black 100%);
+}
+
+#top-cont-1 img {
+    width: 200px;
+}
+
+
+#head-1 #top-cont-1 {
+    height: 100%;
+    width: 90vw;
+}
+
+#top-cont-2 p {
+    font-size: 50px;
+    line-height: 10vh;
+    font-weight: bold;
+}
+
+#head-1 #top-cont-2 h4 {
+    font-size: 30px;
+    line-height: normal;
+}
+
+#top-cont-2 img {
+    width: 15%;
+    padding-bottom: 0px;
+}
+
+#top-cont-3 {
+    width: 26.5vw;
+    margin-left: 5px;
+}
+
+#head-1 #top-cont-3 {
+    width: 100%;
+    text-align: center;
+}
+
+#top-cont-3 a {
+    color: white;
+    text-decoration: none;
+}
+
+
+#head-1 #top-cont-3 button {
+    font-size: 17px;
+    width: 100%;
+}
+
+#top-cont-3 button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#top-cont-4 p {
+    margin-top: 0;
+    color: white;
+    z-index: 1;
+    font-size: 17px;
+}
+
+#top-cont-4 span {
+    width: 50%;
+}
+
+#top-cont-4 img {
+    transform: translate(-60px, 0px);
+    width: 4vw;
+    padding: 0px;
+}
+
+#top-cont-4 #span_free {
+    color: #a8e434;
+    font-weight: bold;
+    position: relative;
+    font-size: larger;
+    left: -58px;
+}
+
+#head-1 #top-cont-4 p {
+    text-align: center;
+    transform: translateX(5vw);
+}
+
+#head-1 #top-cont-4 img {
+    transform: translate(-10vw, 0px);
+    width: 9vw;
+}
+
+#head-1 #top-cont-4 #span_free {
+    color: #a8e434;
+    font-weight: bold;
+    position: relative;
+    font-size: larger;
+    left: -10vw;
+}
+
+.appu {
+    background-image: url("https://cdn.prod.website-files.com/642c0b2b12c402f7d9255170/642c0b2b12c40215f22553e3_Vector%201.png");
+}
+
+.common-div-trending {
+    background-color: #5a7184;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.common-button {
+    background-color: #0f172a;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 35px;
+}
+
+.a-rare-collection-of {
+    background-color: #0f172a;
+    height: 100%;
+    padding: 30px;
+    color: white;
+}
+
+.carousal-para {
+    font-size: 18px;
+    width: 90%;
+    text-align: center;
+    height: 70%;
+    margin-top: 10px;
+}
+
+.carousel-section {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#feedbackCarousel {
+    background-color: #0a0a23;
+    padding: 40px 0;
+    color: white;
+}
+
+#feedbackCarousel .feedback-card {
+    background-color: #13133a;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 12px;
+    width: 50%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+#feedbackCarousel .feedback-link {
+    color: #4da6ff;
+    text-decoration: none;
+}
+
+#feedbackCarousel .feedback-link:hover {
+    text-decoration: underline;
+}
+
+#feedbackCarousel .carousel-control-prev-icon,
+#feedbackCarousel .carousel-control-next-icon {
+    background-size: 100% 100%;
+}
+
+#feedbackCarousel .carousel-control-prev,
+#feedbackCarousel .carousel-control-next {
+    border: none;
+}
+
+.profile-img {
+    width: 60px;
+    border-radius: 50%;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+.code-background {
+    background-color: #0f172a;
+}
+
+.carousel-indicators {
+    bottom: -40px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    opacity: 0.5;
+    transition: opacity 0.3s ease, background-color 0.3s ease;
+    margin: 0 6px;
+    border: none;
+}
+
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: white;
+}
+
+
+.our-speaker-come-from {
+    background-color: #0f172a;
+    height: 100%;
+    padding: 30px;
+    color: white;
+}
+
+.claim-your-free-access-btn {
+    width: 250px;
+}
+
+.claim-your-access {
+    background-color: #0f172a;
+    height: 100%;
+    padding: 30px;
+    color: white;
+}
+
+.input-text {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.emoji-icon {
+    height: 40px;
+}
+
+.happy-feedback {
+    background-color: #713f1230;
+    border-width: 2px;
+    border-color: #713f12;
+    width: 53vw;
+    border-radius: 40px;
+    border-style: solid;
+    padding-top: 8px;
+}
+
+.students-say-section {
+    background-color: #0f172a;
+    height: 100%;
+    padding: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.podcast-intro-section {
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e843d25fd4_NxtWave's%20Empowering%20Podcast%20Series%20%20to%20Shape%20your%20Dream%20Career.%20(1).png");
+    height: 100%;
+    background-size: cover;
+    padding: 55px;
+}
+
+.podcast-intro-section-para {
+    font-family: Roboto;
+    color: white;
+    font-size: 22px;
+}
+
+.podcast-intro-section-head {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.podcast-intro-section-btn {
+    font-family: Roboto;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+}
+
+.caution-section {
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/645345c7c2106e1bd1c65a6c_Background%20String.png");
+    height: 15vh;
+    background-size: cover;
+    padding-left: 60px;
+}
+
+.contact-us-section {
+    background-color: #0f172a;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.contact-us-section-1 {
+    background-color: #0f172a;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+.contact-us-head {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    width: 80%;
+}
+
+.support-mail {
+    color: #5a7184;
+    font-family: Roboto;
+}
+
+.contact-us-ul {
+    list-style-type: none;
+    color: #5a7184;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.contact-us-anchor {
+    color: #5a7184;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 15px;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.contact-us-anchor-2 {
+    color: #475569;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Roboto;
+    border-width: 0px;
+    height: 100%;
+    margin-left: -10px;
+}
+
+.contact-us-address {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 13px;
+    border-style: solid;
+    border-width: 0px;
+    width: 250px;
+}
+
+hr {
+    height: 2px;
+    width: 90%;
+    background-color: #5a7184;
+}
+
+.code-background {
+    background-color: #1e293b;
+    height: 100%;
+}
+
+.image {
+    height: 10vh;
+}
+
+.main-heading {
+    font-size: 20px;
+}
+
+.head-design {
+    font-size: 15px;
+}
+
+.head-design-two {
+    font-size: 15px;
+}
